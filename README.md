@@ -7,4 +7,4 @@ Cheers!
 
 - ⚡ Fun fact: I love Star Wars, do you too?
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vyomaan)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
