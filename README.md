@@ -2,8 +2,6 @@ Hello there ^_~
 
 You have arrived at my GitHub page! Cheers, I'll drink some tea to that.
 
-Student and passionate coder, although I do not have the most impressive GitHub stats. Believe me if you will 👀
-
 I want to help this world somehow, and since I have no ideas about killing all humans (we're a menace, face it), I'm stuck to rather simple things. I would appreciate any new ideas or even simple conversations.
 
 Mail - vydave.711@gmail.com
